@@ -19,7 +19,6 @@ format:
 
 ```json
 {
-  "plexKey": "value",
-  "library": "Movies"
+  "plexKey": "value"
 }
 ```

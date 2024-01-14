@@ -1,5 +1,17 @@
 # Changelog
 
+## [v0.1.1](https://github.com/chrisjohnson00/plex-sad-destroy/tree/v0.1.1) (2024-01-14)
+
+[Full Changelog](https://github.com/chrisjohnson00/plex-sad-destroy/compare/v0.1.0...v0.1.1)
+
+**Merged pull requests:**
+
+- ci: skip docker hub login when no push is needed [\#6](https://github.com/chrisjohnson00/plex-sad-destroy/pull/6) ([chrisjohnson00](https://github.com/chrisjohnson00))
+
+## [v0.1.0](https://github.com/chrisjohnson00/plex-sad-destroy/tree/v0.1.0) (2024-01-14)
+
+[Full Changelog](https://github.com/chrisjohnson00/plex-sad-destroy/compare/v0.0.2...v0.1.0)
+
 ## [v0.0.2](https://github.com/chrisjohnson00/plex-sad-destroy/tree/v0.0.2) (2024-01-14)
 
 [Full Changelog](https://github.com/chrisjohnson00/plex-sad-destroy/compare/v0.0.1...v0.0.2)

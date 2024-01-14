@@ -1,5 +1,13 @@
 # Changelog
 
+## [v0.0.2](https://github.com/chrisjohnson00/plex-sad-destroy/tree/v0.0.2) (2024-01-14)
+
+[Full Changelog](https://github.com/chrisjohnson00/plex-sad-destroy/compare/v0.0.1...v0.0.2)
+
+**Merged pull requests:**
+
+- docs: correcting message contract in readme [\#3](https://github.com/chrisjohnson00/plex-sad-destroy/pull/3) ([chrisjohnson00](https://github.com/chrisjohnson00))
+
 ## [v0.0.1](https://github.com/chrisjohnson00/plex-sad-destroy/tree/v0.0.1) (2024-01-14)
 
 [Full Changelog](https://github.com/chrisjohnson00/plex-sad-destroy/compare/b0e4f2aa2249f20eabe48fbb0a1d4c2df840f5d4...v0.0.1)

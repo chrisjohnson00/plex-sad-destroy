@@ -1,5 +1,13 @@
 # Changelog
 
+## [v0.1.2](https://github.com/chrisjohnson00/plex-sad-destroy/tree/v0.1.2) (2024-01-14)
+
+[Full Changelog](https://github.com/chrisjohnson00/plex-sad-destroy/compare/v0.1.1...v0.1.2)
+
+**Merged pull requests:**
+
+- ci: rename to yaml [\#7](https://github.com/chrisjohnson00/plex-sad-destroy/pull/7) ([chrisjohnson00](https://github.com/chrisjohnson00))
+
 ## [v0.1.1](https://github.com/chrisjohnson00/plex-sad-destroy/tree/v0.1.1) (2024-01-14)
 
 [Full Changelog](https://github.com/chrisjohnson00/plex-sad-destroy/compare/v0.1.0...v0.1.1)

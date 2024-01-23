@@ -95,7 +95,11 @@ def delete_from_plex(*, plex_key):
     try:
         item = plex.fetchItem(ekey=int(plex_key))
         logger.info(f"Deleting '{item.title}'")
-        item.delete()
+        dry_run = os.getenv("DRY_RUN", "false").lower() == "true"
+        if not dry_run:
+            item.delete()
+        else:
+            logger.info("Dry run is enabled, not deleting")
     except NotFound:
         logger.warning(f"Item with plex key '{plex_key}' not found")
 

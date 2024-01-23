@@ -1,5 +1,13 @@
 # Changelog
 
+## [v0.2.0](https://github.com/chrisjohnson00/plex-sad-destroy/tree/v0.2.0) (2024-01-23)
+
+[Full Changelog](https://github.com/chrisjohnson00/plex-sad-destroy/compare/v0.1.2...v0.2.0)
+
+**Implemented enhancements:**
+
+- feat: implement dry run for local dev [\#10](https://github.com/chrisjohnson00/plex-sad-destroy/pull/10) ([chrisjohnson00](https://github.com/chrisjohnson00))
+
 ## [v0.1.2](https://github.com/chrisjohnson00/plex-sad-destroy/tree/v0.1.2) (2024-01-14)
 
 [Full Changelog](https://github.com/chrisjohnson00/plex-sad-destroy/compare/v0.1.1...v0.1.2)
